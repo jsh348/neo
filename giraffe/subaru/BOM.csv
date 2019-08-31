@@ -1,14 +1,16 @@
 Comma Access Point,,,,
 Ref Des,Package,Manufacture PN,Qty ,Link
 J1,26 Pin R/A,5018762640,1,https://www.digikey.com/product-detail/en/molex/501876-2640/WM6091-ND/1787792
-J2,10 Pin R/A,5018761040,1,https://www.digikey.com/products/en?keywords=501876-1040
+"J2,J4",10 Pin R/A,5018761040,1,https://www.digikey.com/products/en?keywords=501876-1040
 J3,2 Pin R/A,3-794618-2,1,https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/3-794618-2/A33252-ND/1114990
 R1,DNP,DNP,DNP,
 R2,R0402,ERJ-2GEJ121X,1,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-2GEJ121X/P120JCT-ND/146744
 R4,R0402,ERJ-2GE0R00X,1,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-2GEJ121X/P120JCT-ND/146744
 C1,DNP,DNP,DNP,
+C2,C0805,CL21F104ZBCNNNC ,1,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21F104ZBCNNNC/1276-1007-1-ND/3889093
 S1,,G6S-2G DC12,1,https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/G6S-2G-DC12/Z892-ND/20450
 "D1,D2",SMD,ES2BA-13-F,1,https://www.digikey.com/product-detail/en/diodes-incorporated/ES2BA-13-F/ES2BA-FDICT-ND/815690
+IC1,16-SO,"UJA1023T/2R04/C,51",1,https://www.digikey.com/product-detail/en/nxp-usa-inc/UJA1023T-2R04-C51/568-15126-1-ND/9825631
 Panda Interface Point,,,,
 Ref Des,Package,Manufacture PN,Qty,Link
 J1,OBDII,,1,https://cn1514770021qfbj.en.alibaba.com/product/60598699808-804284542/J1962F_OBD2_16_Pin_Female_connector_OBD2_Socket.html?spm=a2700.8304367.prewdfa4cf.23.69f6cd4FYbHXy
